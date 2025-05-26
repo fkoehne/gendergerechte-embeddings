@@ -12,19 +12,19 @@ Ich habe mich daher zu einem kleinen Experiment entschlossen. Wie ähnlich ist a
 
 Das lässt sich mit dem Google Embedding-Modell (`gemini-embedding-001`), ein wenig Python-Code und der üblichen Cosinus-Ähnlichkeit sehr einfach messen, bspw. in einer @qdrant-Vektordatenbank.
 
-Die Distanzen sind im Ergebnis wie folgt:
+Die semantischen Distanzen sind im Ergebnis wie folgt:
 
 • IT-Berater 🆚 IT-Berater:in
-  Similarity: 0.0386 (3.86%)
+  Similarity: 0.0386
 
 • IT-Berater 🆚 IT-Berater*in
-  Similarity: 0.0392 (3.92%)
+  Similarity: 0.0392
 
 • IT-Berater 🆚 IT-Beratende
-  Similarity: 0.0482 (4.82%)
+  Similarity: 0.0482
 
 • IT-Berater 🆚 IT-Beraterin
-  Similarity: 0.0503 (5.03%)
+  Similarity: 0.0503
 
 Danach kommen mit einigem Abstand meine stereotypen Kontrollbegriffe "Bademeisterin" und "Hufschmiedin" und ich stelle fest, dass mein Beruf dem eines Bademeisters ähnlicher ist als dem eines Hufschmieds. Nun gut.
 
