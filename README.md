@@ -14,17 +14,13 @@ Das lässt sich mit dem Google Embedding-Modell (`gemini-embedding-001`), ein we
 
 Die semantischen Distanzen sind im Ergebnis wie folgt:
 
-• IT-Berater 🆚 IT-Berater:in
-  Similarity: 0.0386
+• IT-Berater 🆚 IT-Berater:in: 0.0386
 
-• IT-Berater 🆚 IT-Berater*in
-  Similarity: 0.0392
+• IT-Berater 🆚 IT-Berater*in: 0.0392
 
-• IT-Berater 🆚 IT-Beratende
-  Similarity: 0.0482
+• IT-Berater 🆚 IT-Beratende: 0.0482
 
-• IT-Berater 🆚 IT-Beraterin
-  Similarity: 0.0503
+• IT-Berater 🆚 IT-Beraterin: 0.0503
 
 Danach kommen mit einigem Abstand meine stereotypen Kontrollbegriffe "Bademeisterin" und "Hufschmiedin" und ich stelle fest, dass mein Beruf dem eines Bademeisters ähnlicher ist als dem eines Hufschmieds. Nun gut.
 
